@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['main_2',['main',['../main_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0',1,'main.cpp']]],
-  ['main_2ecpp_3',['main.cpp',['../main_8cpp.html',1,'']]]
+  ['printben_3',['PrintBen',['../main_8cpp.html#a5d26352cc254fadaee7e77c749630806',1,'main.cpp']]]
 ];
